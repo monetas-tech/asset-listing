@@ -1,0 +1,30 @@
+{
+    "name": "mntg-token-listing",
+    "version": "0.0.1",
+    "description": "Third Party Tokens Listing for MNTG Wallet",
+    "author": "MNTG <tech@mntg.com>",
+    "scripts": {
+        "validate:all": "ts-node scripts/validate-all.ts",
+        "prepare": "husky install"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^16.6.0",
+        "@typescript-eslint/eslint-plugin": "^4.29.1",
+        "@typescript-eslint/parser": "^4.29.1",
+        "eslint": "^7.32.0",
+        "husky": "^7.0.1",
+        "joi": "^17.4.2",
+        "lint-staged": "^11.1.2",
+        "prettier": "^2.3.2",
+        "ts-node": "^10.2.0",
+        "typescript": "^4.3.5"
+    },
+    "lint-staged": {
+        "*.{js,ts}": [
+            "prettier --write",
+            "eslint --cache --fix"
+        ],
+        "*.{json,md}": "prettier --write"
+    }
+}

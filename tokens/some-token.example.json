@@ -1,0 +1,10 @@
+{
+    "contractAddress": "<contract-address>",
+    "proxyContractAddress": "<proxy-contract-address>",
+    "network": "<network>",
+    "decimals": 0,
+    "symbol": "<symbol>",
+    "name": "<name>",
+    "contractABI": "<contract-abi-json>",
+    "logoUrl": "<logoUrl>"
+}
