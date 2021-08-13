@@ -18,7 +18,7 @@ For Example:
         "contractAddress": "<contract-address>",
         "proxyContractAddress": "<proxy-contract-address>",
         "network": "<network>",
-        "decimals": 10,
+        "decimals": <number>,
         "symbol": "<symbol>",
         "name": "<name>",
         "contractABI": "<contract-abi-json>",
