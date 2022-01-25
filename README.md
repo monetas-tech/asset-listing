@@ -3,7 +3,7 @@ With Indus91 Wallet, Monetas Global now makes it easier for anyone and everyone 
 
 ## How to List your Token
 
-1. Fill the mentioned Google Form, regarding all the details of your crypto token → https://forms.gle/XETBdeRjy9Ydrd39A
+1. Fill the mentioned Google Form, regarding all the details of your crypto token → https://forms.gle/dasvF7PKD9VJAyeN6
 2. Visit the following GitHub link → If you can read this, you are at right place!
 3. Fork the repository.
 4. Clone the forked repository at your end.
