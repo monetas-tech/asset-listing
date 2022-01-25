@@ -1,5 +1,5 @@
-# MNTG Token Listing
-With MNTG Wallet, Monetas Global now makes it easier for anyone and everyone to get their personal and legalized crypto tokens and coins listed with us. MNTG Wallet is the best destination to get it done, so that you get a huge and satisfactory client base, trading your token regularly.
+# Indus91 Token Listing
+With Indus91 Wallet, Monetas Global now makes it easier for anyone and everyone to get their personal and legalized crypto tokens and coins listed with us. Indus91 Wallet is the best destination to get it done, so that you get a huge and satisfactory client base, trading your token regularly.
 
 ## How to List your Token
 
@@ -29,6 +29,6 @@ For Example:
 10. Visit your repository GitHub page and create a new pull request to the main repository.
 11. It will automatically check and validate all the details monitroed by an expert from Monetas Global Tech Team.
 12. Wait for the pull request to get accepted.
-13. And voila! You will get your token listed on MNTG Wallet!
+13. And voila! You will get your token listed on Indus91 Wallet!
 
 
